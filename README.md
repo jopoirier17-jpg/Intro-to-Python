@@ -1,2 +1,1 @@
-# Intro-to-Python
-# Intro-to-Python
+# Learning Python basic

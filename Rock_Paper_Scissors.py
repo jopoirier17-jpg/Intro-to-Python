@@ -26,7 +26,7 @@ while True:
     else:
         print("Computer wins!")
 
-    # Restart
+    # Restart if input not equal yes break the loop
     play_again = input("\nDo you want to play again? (y/n): ")
     if play_again != 'y':
         print("Thanks for playing!")

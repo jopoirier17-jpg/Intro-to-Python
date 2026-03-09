@@ -1,0 +1,6 @@
+Statement for Alice (checking)
+Account ID: 96434
+Initial Balance: 500
+------------------------------
+Deposited: +200 | New Balance: 700
+Withdrew: -100 | New Balance: 600

@@ -1,0 +1,6 @@
+Statement for Bob (saving)
+Account ID: 19553
+Initial Balance: 0
+------------------------------
+Deposited: +1000 | New Balance: 1000
+Withdrew: -250 | New Balance: 750

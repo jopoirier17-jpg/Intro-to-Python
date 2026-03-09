@@ -1,0 +1,6 @@
+Statement for John (saving)
+Account ID: 13714
+Initial Balance: 0
+------------------------------
+Deposited: +1000 | New Balance: 1000
+Withdrew: -250 | New Balance: 750
